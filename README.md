@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Merhaba, ben Emir
 
-<!--
-**user7121/user7121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+İstanbul Aydın Üniversitesinde yazılım geliştirme bölümü (3. sınıf) öğrencisiyim.
 
-Here are some ideas to get you started:
+💻 **Kullandığım Teknolojiler & Araçlar:**  
+- Java, Python, C/C++  
+- Git, GitHub, Jupyter Notebook
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Öne Çıkan Projelerim
+
+### 1️⃣ Coffee Machine Simulation
+- **Açıklama:** Java ve Swing kullanılarak geliştirilmiş, masaüstü tabanlı bir kahve makinesi simülasyonu.
+- **Teknolojiler:** Java, Java Swing (GUI), OOP Prensipleri 
+- [Repo Linki](https://github.com/user7121/Coffee-Machine)
+
+### 2️⃣ Breast Cancer Prediction
+- **Açıklama:** "Breast Cancer Wisconsin" veri setini kullanarak, tümör özelliklerini analiz eden ve bunları iyi huylu (benign) veya kötü huylu (malignant) olarak sınıflandıran bir denetimli öğrenme projesi.
+- **Teknolojiler:** Python 3.x, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn (Regresyon ve Sınıflandırma modelleri)
+- [Repo Linki](https://github.com/user7121/Breast-Cancer-Prediction)
+  
+---
+
+## 📫 Bana Ulaş
+- **E-posta:** emirseker368@gmail.com
+- **GitHub:** [github.com/user7121](https://github.com/user7121)
+
+---
+
+## 📈 GitHub İstatistiklerim
+[![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=user7121)](https://github.com/user7121/github-readme-stats)
