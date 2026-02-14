@@ -22,7 +22,7 @@
   
 ---
 
-## 📫 Bana Ulaş
+## 📫 Bana Ulaşın
 - **E-posta:** emirseker368@gmail.com
 - **GitHub:** [github.com/user7121](https://github.com/user7121)
 
