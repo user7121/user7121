@@ -25,8 +25,5 @@
 ## 📫 Bana Ulaşın
 - **E-posta:** emirseker368@gmail.com
 - **GitHub:** [github.com/user7121](https://github.com/user7121)
-
+- **LinkedIn:** https://www.linkedin.com/in/emir-%C5%9Feker-662a753b0/
 ---
-
-## 📈 GitHub İstatistiklerim
-[![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=user7121)](https://github.com/user7121/github-readme-stats)
