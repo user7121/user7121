@@ -25,5 +25,5 @@
 ## 📫 Bana Ulaşın
 - **E-posta:** emirseker368@gmail.com
 - **GitHub:** [github.com/user7121](https://github.com/user7121)
-- **LinkedIn:** https://www.linkedin.com/in/emir-%C5%9Feker-662a753b0/
+- **LinkedIn:** [Emir Şeker](https://www.linkedin.com/in/emir-%C5%9Feker-662a753b0/)
 ---
